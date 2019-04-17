@@ -1,0 +1,4 @@
+# WebViewForAndroidPractice05_ImplicitIntent
+This is a MyBrowser using WebView for my AndroidPractice05_ImplicitIntent
+
+这个项目和AndroidPractice05_ImplicitIntent两个项目共同组成了实验五，<br/>这是个使用WebView的自定义简易浏览器MyBrowser
